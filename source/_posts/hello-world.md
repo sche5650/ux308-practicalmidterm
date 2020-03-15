@@ -1,39 +1,8 @@
 ---
-title: Hello World
+title: Marvel Cinematic Universe
 lang: en
+date: '2020-03-15T00:00:00-04:00'
+thumbnail: /images/uploads/marvel_studios_logo.jpg
+terms: 'Marvel, Marvel Studios, MCU, Superheroes, Films'
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
-## Quick Start
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+The Marvel Cinematic Universe has become a staple of popular culture over the last number of years. These film adaptations of beloved comic book storylines have drawn billions of dollars of revenue for the Walt Disney Co. and have created an investment from younger generations in superheroes and superheroes film. Disney's aquisition of Marvel's film rights has been a lucrative decision and the future of the MCU looks bright!
