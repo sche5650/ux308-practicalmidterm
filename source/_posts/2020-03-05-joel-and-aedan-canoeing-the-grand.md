@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: Joel and Aedan Canoeing the Grand
+title: Nike Air Mag
 lang: en
 date: '2020-03-05T21:40:35-05:00'
-thumbnail: /images/uploads/canoeingthe-grand.jpg
-rating: '3'
+thumbnail: /images/uploads/iu.gif
+terms: 'Nike, Air Mag, Back to the Future, Footwear'
 ---
-Joel and Aedan canoeing the grand.
+Nike has previously released a limited edition run of these Back to the Future inspired kicks for charity. The Nike Air Mag is one of the most coveted sneakers in footwear history, and these shoes were auctioned off for Parkinson's research (with each fetching thousands).
